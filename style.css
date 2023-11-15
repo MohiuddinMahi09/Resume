@@ -1,0 +1,107 @@
+/* Write CSS Here */
+* {
+	margin: 20;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: rgb(253, 254, 255);
+	justify-content: center;
+	align-items: center;
+}
+.full {
+	width: 100%;
+	max-width: 10000px;
+	min-height: 100px;
+	background-color: rgb(245, 239, 231);
+	margin: 0px;
+	display: grid;
+	grid-template-columns: 2fr 4fr;
+}
+.left {
+	position: initial;
+	background-color: rgb(126, 219, 231);
+	padding: 20px;
+
+}
+.right {
+	position: initial;
+	background-color: rgb(162, 202, 206);
+	padding: 20px;
+
+}
+.image, .Contact, .Skills, .Language, .Hobbies, .title, 
+.Summary, .Experience, .Education, .project {
+	margin-bottom: 30px;
+}
+.h2 {
+	background-color: rgb(4, 96, 150);
+}
+footer{
+	width: 100%;
+	max-width: 10000px;
+	min-height: 100px;
+	margin: 0px;
+	
+}
+
+.right1 {
+	position: bottom;
+	background-color: white;
+	padding: 10px;
+
+}
+
+.sign {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	
+
+}
+
+img.abc {
+  display: block;
+  margin-left: auto;
+}
+
+.certification{
+	background-color: bisque;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+table, th, td{
+
+border: solid;
+width: max-content;
+padding: 5px;
+
+
+}
+
+table{
+	inline-size: 100%;
+}
+
+.empty{
+	background-color: aliceblue;
+}
+
+.signature{
+text-align: right;
+}
+
+.sidenav {
+	width: 230px;
+	z-index: 1;
+	background: #b6b3b3;
+	overflow-x: hidden;
+	padding: 0px;
+	margin: 0px;
+	float: right;
+	font-size: 12px;
+	
+  }
