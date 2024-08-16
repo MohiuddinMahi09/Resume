@@ -26,7 +26,7 @@ body {
 }
 .right {
 	position: initial;
-	background-color: rgb(162, 202, 206);
+	background-color: rgb(152, 190, 199);
 	padding: 20px;
 
 }
@@ -35,7 +35,7 @@ body {
 	margin-bottom: 30px;
 }
 .h2 {
-	background-color: rgb(4, 96, 150);
+	background-color: rgb(2, 90, 140);
 }
 footer{
 	width: 100%;
@@ -97,7 +97,7 @@ text-align: right;
 .sidenav {
 	width: 230px;
 	z-index: 1;
-	background: #b6b3b3;
+	background: #015448;
 	overflow-x: hidden;
 	padding: 0px;
 	margin: 0px;
